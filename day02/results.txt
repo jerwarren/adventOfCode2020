@@ -1,0 +1,1002 @@
+no match: /b{4,6}/ bbbdbtbbbj, bbbbbbb
+no match: /g{1,6}/ ggvggbgggstg, gggggggg
+MATCH: /s{1,4}/ lssss, ssss
+MATCH: /v{13,14}/ hvvcvvvvvvvvvsvvv, vvvvvvvvvvvvvv
+MATCH: /m{3,5}/ lcmmm, mmm
+no match: /t{3,4}/ stht, tt
+no match: /b{5,6}/ dbkbhb, bbb
+MATCH: /p{4,7}/ ppfppppq, pppppp
+MATCH: /j{4,5}/ jjjjj, jjjjj
+MATCH: /s{3,12}/ sskssssssssss, ssssssssssss
+no match: /z{14,15}/ zrndzbmrzzpzzqzj, zzzzzzz
+MATCH: /l{12,18}/ tllllllllllllplllbl, llllllllllllllll
+no match: /b{8,10}/ bdbvqbtbrb, bbbbb
+no match: /c{1,3}/ tcqccc, cccc
+MATCH: /n{1,2}/ nbnj, nn
+no match: /c{5,7}/ ccccccccc, ccccccccc
+no match: /l{9,10}/ hpmslrlgll, llll
+MATCH: /n{6,9}/ nnnnnnnnb, nnnnnnnn
+no match: /r{6,10}/ rmzjlrsxkbw, rr
+no match: /r{6,8}/ bzqnnrrrj, rrr
+no match: /c{4,14}/ mfffvcbtchzrqcn, ccc
+no match: /f{1,6}/ ffffffffffffff, ffffffffffffff
+no match: /f{2,5}/ wxtkf, f
+no match: /b{8,12}/ rdcbbjbzbbpb, bbbbbb
+MATCH: /d{8,18}/ ddtdddddddwvdfdsdd, ddddddddddddd
+MATCH: /s{5,8}/ sssmsgpgszms, ssssss
+MATCH: /x{6,11}/ xxxxxvxxxxxt, xxxxxxxxxx
+no match: /n{17,18}/ jhrnnzpxzngfqrntmnc, nnnnn
+no match: /r{13,14}/ rrrmrrrrlrrshvrrr, rrrrrrrrrrrr
+no match: /h{4,5}/ hhhhrhh, hhhhhh
+no match: /d{8,10}/ dgwtdsxnncd, ddd
+MATCH: /q{9,13}/ qqbpqmqgmqwqbqqqxcgq, qqqqqqqqqq
+MATCH: /g{2,5}/ gjjcpgg, ggg
+MATCH: /t{6,12}/ ttttvttttttrtt, tttttttttttt
+MATCH: /h{3,9}/ hhhhhhhhsh, hhhhhhhhh
+no match: /p{15,16}/ ppppsppppppppppz, pppppppppppppp
+no match: /c{2,5}/ csccctcccc, cccccccc
+MATCH: /p{11,14}/ pppppppppppppnp, pppppppppppppp
+MATCH: /j{8,9}/ jvbjjjjrjbjj, jjjjjjjj
+no match: /b{8,16}/ qklbmbntmvbhxplbbcb, bbbbbb
+no match: /j{12,13}/ jjjjsjmfjjjkhj, jjjjjjjjj
+MATCH: /t{2,13}/ llckxhfmtznptndcsx, tt
+MATCH: /x{6,8}/ dxxxxvxxtt, xxxxxx
+no match: /d{3,4}/ ddht, dd
+MATCH: /t{3,4}/ ttdtt, tttt
+MATCH: /r{11,12}/ rrrrrrrrrrrd, rrrrrrrrrrr
+MATCH: /h{9,10}/ hhhhhhhhgh, hhhhhhhhh
+no match: /h{3,16}/ hhhhhhhhhhhhhhnhhh, hhhhhhhhhhhhhhhhh
+no match: /h{10,11}/ hxhhhdhhhsh, hhhhhhhh
+MATCH: /n{1,7}/ jnfnjnn, nnnn
+MATCH: /m{3,4}/ msmnpmpf, mmm
+no match: /t{15,17}/ tpdtttgltvtttztlv, ttttttttt
+MATCH: /v{7,10}/ vvpsvpgjzvvvvjs, vvvvvvv
+MATCH: /p{1,5}/ pxppg, ppp
+no match: /w{2,7}/ jwhgkgvxcv, w
+no match: /m{13,14}/ pxxmjznmrzdsbbmmfj, mmmm
+no match: /d{1,4}/ ddddd, ddddd
+MATCH: /r{14,16}/ rrrrrrrrrrrrrwrr, rrrrrrrrrrrrrrr
+MATCH: /l{2,5}/ klbtzzlrlslgswhljtq, lllll
+no match: /c{6,12}/ qccrcpccccccdccccc, cccccccccccccc
+MATCH: /l{2,18}/ llllllllvllllllllkll, llllllllllllllllll
+no match: /z{18,20}/ zzzzzzzzszqzwzrzzzzn, zzzzzzzzzzzzzzz
+MATCH: /c{5,16}/ cbccclcfcncvqztqc, cccccccc
+no match: /m{7,11}/ fnwmtsmgpxncnr, mm
+MATCH: /h{6,7}/ hpjrhbhkshnchbhpph, hhhhhhh
+MATCH: /s{11,12}/ ssssssssssps, sssssssssss
+no match: /s{6,9}/ jfsmmssssqz, sssss
+no match: /l{1,15}/ llllllllllllllbll, llllllllllllllll
+no match: /g{2,6}/ gggggwgggpggggggg, ggggggggggggggg
+MATCH: /j{6,9}/ jjjpjjjjn, jjjjjjj
+no match: /n{9,13}/ nnnnnnnnnnnnnn, nnnnnnnnnnnnnn
+no match: /t{10,13}/ cgntllxnvpkjwxtght, ttt
+no match: /f{2,11}/ xcftbcdcndkgm, f
+MATCH: /j{10,13}/ jjjjjjjjjjjjvj, jjjjjjjjjjjjj
+no match: /f{9,17}/ rfrffnsffxqflbffvv, ffffffff
+MATCH: /k{6,11}/ kkkkkrwkqckmk, kkkkkkkk
+MATCH: /q{5,7}/ zfqqqqqn, qqqqq
+MATCH: /c{12,13}/ cfcccvccccckccccv, ccccccccccccc
+MATCH: /z{5,15}/ xhzzzzzzzzfzzknzz, zzzzzzzzzzzz
+no match: /f{18,19}/ jkfksvmfjbdffffffff, ffffffffff
+no match: /h{8,11}/ hhhhmhhkhsfdg, hhhhhhh
+no match: /s{14,16}/ ssssssdjssssssssssss, ssssssssssssssssss
+no match: /t{15,16}/ jtmjhsxqqmmthmtttm, ttttt
+no match: /h{5,7}/ hkbjhjhh, hhhh
+MATCH: /n{2,6}/ knprnfnfhhrcnk, nnnn
+no match: /w{3,4}/ snwd, w
+no match: /w{5,11}/ wwwwnwwwwwwwwwwww, wwwwwwwwwwwwwwww
+MATCH: /k{2,12}/ bkqjghpktfsk, kkk
+no match: /v{14,15}/ vvvsvvvvvvvvvxv, vvvvvvvvvvvvv
+no match: /w{8,9}/ fxwwwwwscwl, wwwwww
+no match: /c{9,15}/ sbjvvsmdvqknbccxxx, cc
+no match: /t{6,15}/ tpwjtdnnldthxvn, ttt
+no match: /t{13,15}/ tttttrzmzttjttt, tttttttttt
+MATCH: /m{3,11}/ mmvmlmmmwfmjx, mmmmmmm
+MATCH: /s{13,14}/ gskssssssscssssqjssl, ssssssssssssss
+no match: /l{5,10}/ bfnmqlldllp, llll
+MATCH: /q{17,18}/ qkwqqqqqqqqqqqrqqqqq, qqqqqqqqqqqqqqqqq
+MATCH: /r{2,5}/ rsvrrq, rrr
+MATCH: /j{3,4}/ jjjdj, jjjj
+no match: /m{3,4}/ mtmk, mm
+no match: /k{8,9}/ vsvkvkrkc, kkk
+no match: /t{10,12}/ ttttttcttttgttt, ttttttttttttt
+no match: /n{3,4}/ trzw, 
+MATCH: /q{5,11}/ qqmpsqbxkqq, qqqqq
+no match: /s{13,15}/ sqsssnmwqszfsmv, ssssss
+MATCH: /b{5,6}/ bbbbzvb, bbbbb
+MATCH: /p{5,13}/ pjjhpnqpzpmpfpfp, ppppppp
+no match: /l{4,5}/ mgnwlrw, l
+MATCH: /k{1,7}/ fkzxwkj, kk
+MATCH: /q{1,10}/ qgxqqqqqqg, qqqqqqq
+MATCH: /s{8,9}/ ssqssssfss, ssssssss
+MATCH: /c{7,8}/ xxcscclccdvcmqcc, cccccccc
+MATCH: /d{2,6}/ xdlmzdzxrpmlnt, dd
+MATCH: /s{3,9}/ sssssnssgbs, ssssssss
+no match: /h{7,10}/ sblrrhqrhh, hhh
+no match: /n{3,5}/ xnndnnnfnw, nnnnnn
+no match: /l{9,10}/ vllllqlllhllljxlp, lllllllllll
+MATCH: /d{2,5}/ ddxzbxk, dd
+no match: /m{10,14}/ mmmmmmmmmmdmmmmsmmm, mmmmmmmmmmmmmmmmm
+no match: /f{1,2}/ ffffw, ffff
+no match: /g{14,15}/ wdjhplhrbcxdgpnt, g
+no match: /l{1,2}/ klllllll, lllllll
+no match: /k{10,11}/ ckkhkkvkkkmkkjkwkkwk, kkkkkkkkkkkkk
+MATCH: /f{7,9}/ ffrhdvftfpjfqffhnfsf, fffffffff
+no match: /c{4,5}/ kkjksrmkccg, cc
+MATCH: /r{5,9}/ rrrrhrrrrr, rrrrrrrrr
+MATCH: /p{5,6}/ pppppth, ppppp
+no match: /t{4,10}/ kpfwzjtchtbndblrvst, ttt
+no match: /l{1,5}/ mllllllnllll, llllllllll
+MATCH: /r{13,16}/ rrrvrrrrrrrrzrrg, rrrrrrrrrrrrr
+MATCH: /x{17,18}/ xxfxxxxxxxxsxxxxxsxx, xxxxxxxxxxxxxxxxx
+no match: /w{8,11}/ rwbnqrngcvpgwwww, wwwww
+no match: /z{4,8}/ zzzzzzzzzz, zzzzzzzzzz
+MATCH: /b{4,9}/ bbvvbbbbr, bbbbbb
+MATCH: /x{2,5}/ qlfhxkx, xx
+MATCH: /t{3,8}/ wvptttttttt, tttttttt
+no match: /m{1,3}/ hmmmmqmm, mmmmmm
+no match: /h{17,19}/ nhhhdvhnhrhhhhnhmdh, hhhhhhhhhhh
+no match: /s{11,12}/ psszbdpsgfks, ssss
+MATCH: /s{6,7}/ sssssshs, sssssss
+no match: /l{10,15}/ mnkdvnvmxljjtggwcl, ll
+MATCH: /j{1,13}/ qjjjjjjjjjjjdj, jjjjjjjjjjjj
+no match: /l{4,9}/ jxvkwhlmlhdtgwvgsdzz, ll
+MATCH: /c{5,9}/ ccfghhccccgc, ccccccc
+MATCH: /v{10,11}/ vvvvvvvvvvv, vvvvvvvvvvv
+no match: /t{7,8}/ cntwzshkzvmrnnkr, t
+MATCH: /l{1,11}/ tllllllltllll, lllllllllll
+no match: /l{15,17}/ lllglvctrvllzkllt, llllllll
+MATCH: /n{3,5}/ ncnnp, nnn
+MATCH: /q{2,3}/ jsqqh, qq
+MATCH: /h{4,10}/ hhhhhhhhhvh, hhhhhhhhhh
+no match: /b{16,18}/ bbnbbbbbtbbkktbbzdr, bbbbbbbbbbb
+no match: /g{4,6}/ kbggdhgggggggggggfc, ggggggggggggg
+no match: /p{12,13}/ cpvcppqpplwpt, pppppp
+MATCH: /h{5,10}/ fvhhbrhpghchhhhhh, hhhhhhhhhh
+MATCH: /b{2,5}/ bbvzn, bb
+no match: /x{14,15}/ xxxbxnwxxxxzxxh, xxxxxxxxxx
+no match: /n{13,15}/ nnfgdglfnntnjqn, nnnnnn
+MATCH: /c{2,4}/ cfccc, cccc
+MATCH: /v{3,5}/ vrvvzdvv, vvvvv
+MATCH: /v{17,19}/ vvvvvvvvvvvvvvvvvvsv, vvvvvvvvvvvvvvvvvvv
+MATCH: /h{1,20}/ hhhhhhhhhhqhhhhhhhhh, hhhhhhhhhhhhhhhhhhh
+no match: /q{4,15}/ qqqtqqqqqqqqqqqqlq, qqqqqqqqqqqqqqqq
+no match: /h{11,13}/ hhkhvhhhhwhgk, hhhhhhhh
+MATCH: /p{8,11}/ ppvppppppptspf, pppppppppp
+MATCH: /m{8,9}/ mmmpmmkmdmpkspmg, mmmmmmmm
+MATCH: /m{1,7}/ lcmvggm, mm
+MATCH: /v{6,12}/ tvfstvvpvzsvcv, vvvvvv
+MATCH: /n{8,9}/ nnnqnnwrrdzlmnwlznrn, nnnnnnnn
+MATCH: /s{1,5}/ msssms, ssss
+no match: /v{1,3}/ vpdzvdvgv, vvvv
+no match: /g{6,9}/ drgrfggcg, gggg
+no match: /x{6,16}/ djpxhxvncxfghsxx, xxxxx
+MATCH: /b{1,3}/ sjbwwxbvtvbkt, bbb
+MATCH: /c{6,8}/ cccccstccjhv, ccccccc
+no match: /q{1,11}/ qqqpqqqqqqwqqq, qqqqqqqqqqqq
+MATCH: /m{9,11}/ vsbmmmmmmmqmmsm, mmmmmmmmmm
+no match: /g{2,7}/ gqggggggg, gggggggg
+MATCH: /m{2,3}/ mrgvm, mm
+MATCH: /c{6,7}/ cccpcfcc, cccccc
+no match: /w{6,10}/ swbngwswnxnww, wwwww
+MATCH: /r{13,14}/ rrrrrrrrrrwrrgrdr, rrrrrrrrrrrrrr
+no match: /v{3,9}/ vctxhxtfvq, vv
+MATCH: /r{2,9}/ jrrcslgplcprlvgthg, rrr
+MATCH: /n{2,3}/ hnnnsxclvdj, nnn
+no match: /h{10,11}/ zrhghhqhgzh, hhhhh
+MATCH: /z{15,18}/ zzzlzzzzzzzzpzqzpzzz, zzzzzzzzzzzzzzzz
+MATCH: /f{3,8}/ fffffrfl, ffffff
+no match: /l{1,4}/ rllllfl, lllll
+no match: /n{1,2}/ nnnnnvtnv, nnnnnn
+MATCH: /z{17,19}/ zzzzzzzzzzzzzzzzzzqz, zzzzzzzzzzzzzzzzzzz
+MATCH: /n{13,15}/ nnnznnnnnnznnnn, nnnnnnnnnnnnn
+no match: /c{2,5}/ gcccncjmsncfcntjc, ccccccc
+MATCH: /h{8,9}/ hhhhhhhhbpsfh, hhhhhhhhh
+no match: /r{7,11}/ lzvvlbrgjgrr, rrr
+MATCH: /x{5,11}/ xxxxqxxxxxxx, xxxxxxxxxxx
+MATCH: /p{4,7}/ gqpkmppzpsmtzhfdfpl, ppppp
+MATCH: /j{3,4}/ jjdjdg, jjj
+no match: /z{14,16}/ zzzzzzzgjzzzzpzf, zzzzzzzzzzzz
+no match: /n{1,2}/ nnnvnwnnnnh, nnnnnnnn
+no match: /z{4,5}/ jhzzz, zzz
+MATCH: /k{5,7}/ kkkkkkf, kkkkkk
+MATCH: /z{8,18}/ khzzrzjzmzzvzzpcclm, zzzzzzzz
+no match: /m{5,10}/ kjrhwkhmsm, mm
+MATCH: /v{10,16}/ vvvvvvvvvvvvvvvwv, vvvvvvvvvvvvvvvv
+no match: /l{9,10}/ xhvjsmllkcdtldfxlw, llll
+MATCH: /p{8,10}/ ppjvppbpqhpwhppgbp, ppppppppp
+no match: /m{4,6}/ jlmkhm, mm
+no match: /k{1,3}/ gvpklkkkk, kkkkk
+no match: /g{15,16}/ ggjggggvgmgtpgcg, gggggggggg
+MATCH: /j{1,4}/ jbjwj, jjj
+no match: /x{1,3}/ xxxpxxdxxhfx, xxxxxxxx
+no match: /v{14,16}/ vxmhhdvvfjjqwhtv, vvvv
+no match: /l{6,7}/ lnkchzlwxlp, lll
+MATCH: /v{3,4}/ vvvcv, vvvv
+no match: /p{13,14}/ pbqpppppzbmppc, pppppppp
+no match: /p{6,12}/ glqwzprpqbqf, pp
+MATCH: /l{6,12}/ lllllglllllll, llllllllllll
+no match: /n{8,9}/ nnsnnnndcn, nnnnnnn
+MATCH: /p{6,8}/ prwppppp, pppppp
+MATCH: /q{1,10}/ dqqqqqqqqjq, qqqqqqqqq
+no match: /w{12,16}/ kwtbdnjqmwwxhwcwswkl, wwwwww
+no match: /r{11,14}/ rrnjghfrrrshlrq, rrrrrr
+no match: /w{2,14}/ vwbbvcvgnxdmxl, w
+no match: /g{7,8}/ sqmggkgslkwlvggg, gggggg
+MATCH: /q{1,6}/ tqqqqqq, qqqqqq
+MATCH: /b{2,3}/ bbbr, bbb
+no match: /b{7,9}/ jnwbswfpbn, bb
+no match: /n{4,5}/ nnlct, nn
+MATCH: /s{3,11}/ ssssssssssp, ssssssssss
+no match: /f{2,6}/ wjlpwf, f
+MATCH: /g{5,10}/ gggghqgqgb, gggggg
+MATCH: /p{1,3}/ ppdg, pp
+MATCH: /j{4,7}/ pjnkjjljjj, jjjjjj
+MATCH: /v{1,2}/ ghmjzxmtxjxnv, v
+no match: /k{6,14}/ klgdzfmgdwhqdkhcnzm, kk
+MATCH: /z{6,11}/ tgzpzzzzztc, zzzzzz
+MATCH: /b{2,12}/ cxsmjbdgdnrb, bb
+no match: /v{4,6}/ lxdvvh, vv
+no match: /l{3,8}/ pnpdnrll, ll
+no match: /m{7,8}/ mzmswvmmbxmzlmwhdvq, mmmmmm
+MATCH: /s{13,14}/ khzssssssssszsssss, ssssssssssssss
+no match: /d{10,18}/ dmfdlgcxdbzznbrlqn, ddd
+MATCH: /j{13,14}/ jjjjjjjjjjjjdpjj, jjjjjjjjjjjjjj
+no match: /j{15,17}/ jjjjjjjjjwjsqjwjj, jjjjjjjjjjjjj
+MATCH: /x{10,15}/ xxfxkzxxhxxxxxvxxw, xxxxxxxxxxxx
+MATCH: /c{7,14}/ wcccwcmmcccccxhcccc, ccccccccccccc
+MATCH: /z{2,7}/ zmzvfzlszr, zzzz
+no match: /k{7,8}/ jjkrklrkkv, kkkk
+no match: /r{8,9}/ rrrrrjrtz, rrrrrr
+no match: /w{2,3}/ tvws, w
+MATCH: /b{1,5}/ bbbjm, bbb
+MATCH: /q{1,2}/ tqqjf, qq
+no match: /j{5,10}/ wlgjghjhjljwtpcdkqwk, jjjj
+no match: /c{2,5}/ dzpkc, c
+no match: /m{5,6}/ mbvmkm, mmm
+no match: /k{4,15}/ stjkjvvxrmwdpkwsjqvc, kk
+no match: /h{6,9}/ hwkgjplmhxwgvnbhwh, hhhh
+MATCH: /z{12,13}/ zzzzzzzzzzzzz, zzzzzzzzzzzzz
+no match: /q{7,8}/ qqqqqqqqq, qqqqqqqqq
+no match: /c{2,5}/ clcwmccczclcccc, cccccccccc
+MATCH: /l{2,5}/ jlcgfbflklvpfqxtwgg, lll
+no match: /n{5,7}/ nnnnnnvnnnnnn, nnnnnnnnnnnn
+no match: /f{3,5}/ gfktfffqvgltsbff, ffffff
+MATCH: /p{10,16}/ jppbttppzpqppppp, pppppppppp
+MATCH: /m{2,3}/ zmdm, mm
+no match: /j{4,6}/ zsmtjjdnrpp, jj
+no match: /j{17,18}/ hvvmrkfnnkvrjtjhjj, jjjj
+no match: /d{12,15}/ dtddddddddtwxgld, dddddddddd
+no match: /r{8,12}/ rdzrwfgrmxwttknxz, rrr
+no match: /s{6,7}/ rssbktxsgd, sss
+MATCH: /d{11,13}/ ddddmwddddxddndc, ddddddddddd
+MATCH: /p{3,6}/ ppcpspfp, ppppp
+MATCH: /j{12,15}/ jjjjjjgjjjjcjlzj, jjjjjjjjjjjj
+no match: /v{8,12}/ tgjkwfbsxzzvvpmfs, vv
+no match: /z{6,7}/ trbfbdz, z
+no match: /v{4,6}/ vvvvvpvv, vvvvvvv
+MATCH: /p{8,16}/ pnvppdpjppppppph, ppppppppppp
+no match: /z{8,9}/ lzzzzpdzk, zzzzz
+MATCH: /t{1,4}/ qttzz, tt
+MATCH: /d{2,3}/ dhdd, ddd
+MATCH: /m{5,8}/ mmmkmmxmkj, mmmmmm
+MATCH: /f{2,12}/ hfhzkwdmrlqvfkn, ff
+MATCH: /h{5,6}/ hhhhhph, hhhhhh
+no match: /b{14,15}/ bbbbxbbbbbbbbbh, bbbbbbbbbbbbb
+MATCH: /v{2,3}/ vvcj, vv
+no match: /d{12,19}/ ddvdwwqdddcdtdmwdqp, ddddddddd
+no match: /s{3,4}/ ssjssssssss, ssssssssss
+MATCH: /c{2,6}/ wzzxqcdcnlgcph, ccc
+no match: /j{11,12}/ jjdrcjzjkjcs, jjjjj
+MATCH: /z{4,9}/ bzzzzzzxzz, zzzzzzzz
+MATCH: /b{2,8}/ gjbfkxhb, bb
+MATCH: /c{1,3}/ cpksst, c
+MATCH: /h{1,5}/ hhjhh, hhhh
+MATCH: /j{14,15}/ jjjjjjjjjjjjjjr, jjjjjjjjjjjjjj
+no match: /n{8,9}/ pcndxcfknfbnnls, nnnn
+no match: /k{10,13}/ kkkqzkwbkkkrtn, kkkkkkk
+MATCH: /r{4,5}/ rzrrrnrj, rrrrr
+MATCH: /p{13,15}/ ppppppppppppppt, pppppppppppppp
+no match: /j{3,6}/ fjqqzzzjm, jj
+MATCH: /m{2,9}/ zmjhctkmf, mm
+no match: /s{5,6}/ ssmjss, ssss
+no match: /c{3,4}/ jlfd, 
+MATCH: /d{8,12}/ qbddfhnddzgvddddd, ddddddddd
+no match: /p{6,7}/ xfppppcppppxgp, ppppppppp
+no match: /s{8,13}/ sssssssfssssssss, sssssssssssssss
+no match: /g{13,17}/ xskktsjxlvgfxtzzgfj, gg
+MATCH: /q{2,4}/ qqtwfqqnkvbvbhzs, qqqq
+MATCH: /j{1,5}/ cjmjs, jj
+no match: /c{4,5}/ tvccnc, ccc
+MATCH: /m{3,14}/ kkfhmnkkmztxtmn, mmm
+MATCH: /x{11,15}/ xxxxxpxmxxvbxxxvx, xxxxxxxxxxxx
+no match: /l{9,11}/ nhgzwmmrkqhblnk, l
+no match: /x{7,10}/ xxxxxdmxxxxxxxx, xxxxxxxxxxxxx
+MATCH: /v{13,14}/ vvvvvvpvvvjvvcvv, vvvvvvvvvvvvv
+no match: /n{16,17}/ nnnnqnnbnnnnnnnpn, nnnnnnnnnnnnnn
+MATCH: /j{3,4}/ jvjj, jjj
+no match: /q{15,16}/ zlqsgvpztknqjqqwqvf, qqqqq
+no match: /s{3,4}/ sssrsssdss, ssssssss
+no match: /g{11,13}/ ggqggmggswggdk, gggggggg
+no match: /t{1,4}/ jmtzttztqt, ttttt
+no match: /v{2,3}/ vvvv, vvvv
+no match: /g{11,13}/ cgjgxgggkgbggxg, ggggggggg
+MATCH: /g{4,6}/ ggggqlhgmz, ggggg
+no match: /g{8,15}/ prvxwzkvdhgkjlg, gg
+MATCH: /g{6,9}/ gggggnsjlg, gggggg
+no match: /p{12,14}/ mmvlpzkmpgtpvj, ppp
+no match: /k{7,10}/ kkkxkkjkkkdkkkp, kkkkkkkkkkk
+no match: /b{14,16}/ zmztqsrgvjjmswzkbnk, b
+no match: /x{1,2}/ xxbxxxxhx, xxxxxxx
+no match: /l{2,5}/ tlhsx, l
+MATCH: /x{3,5}/ xxxxn, xxxx
+no match: /c{4,12}/ vdnmtmqwnxkcldc, cc
+MATCH: /x{4,8}/ xxxxjglx, xxxxx
+MATCH: /s{5,13}/ vsssspszssssnsss, ssssssssssss
+MATCH: /k{3,6}/ kkhkkkknb, kkkkkk
+MATCH: /t{3,5}/ pttqtwnprt, tttt
+no match: /m{10,14}/ ttjqvzmgmmjqzkd, mmm
+no match: /b{1,5}/ bbbbpbbb, bbbbbbb
+no match: /d{10,15}/ wdjrhvfngdtlkdl, ddd
+no match: /w{6,7}/ trxwdwww, wwww
+MATCH: /n{2,4}/ snxqlgtsmdnnjgwrgmms, nnn
+no match: /l{16,18}/ klslpljllqlcslqqll, lllllllll
+MATCH: /t{4,7}/ tttwzttjt, tttttt
+MATCH: /f{9,10}/ ffffffffwf, fffffffff
+no match: /h{8,15}/ trhgxjchhxvvhqp, hhhh
+MATCH: /w{8,12}/ wwwwwwwqwwwg, wwwwwwwwww
+no match: /x{12,13}/ xxxxxxxxsffqlxx, xxxxxxxxxx
+no match: /k{5,7}/ kkkklkkkktkk, kkkkkkkkkk
+MATCH: /m{1,7}/ wkmmqmmhf, mmmm
+no match: /h{12,13}/ mhhchwhhhzhhcvh, hhhhhhhhh
+MATCH: /k{7,11}/ kkkkkkwkkkgkk, kkkkkkkkkkk
+no match: /l{4,6}/ hdlbll, lll
+MATCH: /v{8,12}/ fvvvvvvvrvvv, vvvvvvvvvv
+no match: /h{2,9}/ hzhhhhhhhhhhhhr, hhhhhhhhhhhhh
+no match: /b{6,8}/ qbqjpbbbdsshv, bbbb
+MATCH: /h{2,3}/ hwhl, hh
+no match: /l{4,7}/ mdllxjgdw, ll
+MATCH: /f{3,9}/ rwffzfkpwbzp, fff
+MATCH: /t{3,5}/ ttnttt, ttttt
+no match: /c{7,10}/ mpcccpndqc, cccc
+no match: /h{6,7}/ fhhhljh, hhhh
+no match: /v{2,7}/ pnvzcns, v
+MATCH: /v{1,3}/ vvgv, vvv
+no match: /s{5,9}/ ssssshsspsssssss, ssssssssssssss
+MATCH: /j{4,6}/ mjjjjq, jjjj
+no match: /h{5,14}/ hwbqghmvmmnvhhrqmj, hhhh
+no match: /s{5,6}/ wctjsh, s
+no match: /s{7,8}/ sssscsjs, ssssss
+MATCH: /v{14,17}/ vvvvvvvvvvvvvvvvv, vvvvvvvvvvvvvvvvv
+no match: /w{14,15}/ wxwwwwwwfwwwwsw, wwwwwwwwwwww
+no match: /v{6,7}/ ksvvvlpvv, vvvvv
+MATCH: /s{7,18}/ cssstsvsscshsstsss, ssssssssssss
+no match: /b{5,6}/ zzwbpm, b
+no match: /r{6,7}/ bvtmpkxspskr, r
+no match: /v{6,7}/ lvxrvqv, vvv
+no match: /c{15,17}/ ccccccccccccccccccc, ccccccccccccccccccc
+no match: /r{8,12}/ ghxpwhxcqjrr, rr
+no match: /k{6,10}/ kzbcdkndqm, kk
+no match: /s{5,6}/ tpsxss, sss
+MATCH: /p{1,5}/ qlrlp, p
+MATCH: /q{4,8}/ qqqkqqqz, qqqqqq
+no match: /v{7,11}/ vgvsxvwvlxv, vvvvv
+MATCH: /b{2,5}/ bgkbb, bbb
+MATCH: /j{3,18}/ jjsplxjxgqjfjrjxjjlx, jjjjjjjj
+MATCH: /k{6,10}/ kxkhkkjkkrvkkk, kkkkkkkkk
+no match: /t{7,16}/ ttttttzttttttttbtttt, tttttttttttttttttt
+MATCH: /l{1,7}/ ptzptslrjgwlfgwq, ll
+MATCH: /v{8,10}/ vvqvvvvvvvv, vvvvvvvvvv
+MATCH: /z{3,5}/ zzzhz, zzzz
+no match: /c{6,7}/ cbrctgc, ccc
+no match: /l{5,16}/ llllxlllllllllllll, lllllllllllllllll
+no match: /c{6,7}/ chxclqcdrh, ccc
+no match: /c{1,10}/ jcmcccccwcccccjbvc, cccccccccccc
+MATCH: /h{8,14}/ zhhvhhhhhhhhhv, hhhhhhhhhhh
+no match: /n{4,7}/ rnnnnnfnnnnnvn, nnnnnnnnnnn
+MATCH: /w{10,12}/ wwwwwwwsgtwww, wwwwwwwwww
+no match: /c{5,8}/ cmbcctzcj, cccc
+no match: /f{5,7}/ fffskrf, ffff
+no match: /l{5,6}/ lllmzl, llll
+no match: /m{7,14}/ mmmmmmmmmmmmmmmmmmm, mmmmmmmmmmmmmmmmmmm
+no match: /f{1,9}/ jfffffffzvffff, fffffffffff
+MATCH: /g{2,5}/ ggmng, ggg
+MATCH: /x{16,17}/ xxxxxxxxxxxxxxxlx, xxxxxxxxxxxxxxxx
+MATCH: /n{4,10}/ npkgjcfnnnnn, nnnnnn
+MATCH: /d{1,13}/ bhkjgsnzxkdgwbdv, dd
+no match: /f{6,7}/ ncqfzff, fff
+MATCH: /h{7,10}/ hqhhhhhjhhh, hhhhhhhhh
+MATCH: /v{2,4}/ vnvvv, vvvv
+MATCH: /w{1,6}/ thlmdwgwgtswvtx, www
+MATCH: /d{3,7}/ ddlkhvfdnpbdr, dddd
+MATCH: /q{1,4}/ qbfq, qq
+MATCH: /f{2,6}/ rzfmfrjgcfjk, fff
+MATCH: /b{10,16}/ bbbbblbbbkbbbbbbwqb, bbbbbbbbbbbbbbb
+no match: /j{13,14}/ jjhcjnkgvrnwjp, jjjj
+MATCH: /l{5,12}/ lgqwvrlwcllllv, llllll
+MATCH: /j{4,8}/ jjgpdjssspjfdbt, jjjj
+no match: /h{1,9}/ hhhhhhhhwhhh, hhhhhhhhhhh
+no match: /p{4,6}/ psmppt, ppp
+MATCH: /h{2,3}/ zhhhk, hhh
+no match: /b{2,6}/ bbbbbmbbvb, bbbbbbbb
+MATCH: /z{7,9}/ zzzzzzgzdzz, zzzzzzzzz
+no match: /d{8,9}/ ddgdmdwddd, ddddddd
+MATCH: /s{2,6}/ nssssv, ssss
+MATCH: /x{18,20}/ xxxxxxxxxxxxxxxxxvxx, xxxxxxxxxxxxxxxxxxx
+no match: /m{9,10}/ dzckmrbhcmwvkcxmlx, mmm
+no match: /v{10,11}/ vwvvvvwvvghvn, vvvvvvvv
+no match: /d{3,6}/ wcwxddjhnljfntj, dd
+MATCH: /v{13,15}/ vvvvvvvvvvvvcvc, vvvvvvvvvvvvv
+no match: /x{1,5}/ xxfxfxxkx, xxxxxx
+no match: /w{7,8}/ wqzjzwwwtw, wwwww
+no match: /f{2,4}/ flgl, f
+MATCH: /n{3,6}/ ncfngngdnm, nnnn
+MATCH: /k{5,7}/ kdkmbkkkkxk, kkkkkkk
+no match: /x{5,6}/ xxvxth, xxx
+no match: /r{5,6}/ rrhhzr, rrr
+no match: /b{4,6}/ bbbrbbbbbmb, bbbbbbbbb
+no match: /q{12,13}/ qqqqqqqqqzqkqp, qqqqqqqqqqq
+no match: /n{6,14}/ mlbflnrbhlhpdrfln, nn
+MATCH: /q{9,12}/ qqqqqqqqqqqwq, qqqqqqqqqqqq
+no match: /k{3,4}/ rkncnbk, kk
+MATCH: /j{1,3}/ jjpj, jjj
+no match: /v{8,9}/ vjvczrvvm, vvvv
+MATCH: /m{9,16}/ tmnmmmxmbmmmrtmmr, mmmmmmmmmm
+no match: /q{9,11}/ qqqqqzqqsjxq, qqqqqqqq
+MATCH: /h{3,5}/ hhhhcs, hhhh
+MATCH: /k{11,12}/ kkkkkkkkkkkvqk, kkkkkkkkkkkk
+no match: /x{11,12}/ xlxxxjjxxxpx, xxxxxxxx
+MATCH: /n{1,12}/ nngtnhlnjfnf, nnnnn
+no match: /p{5,7}/ ppptppppp, pppppppp
+no match: /l{13,14}/ lllmlflllhllpm, lllllllll
+no match: /m{13,14}/ vdkmrdfzmkknmp, mmm
+MATCH: /s{13,15}/ ssssssqssssscssss, sssssssssssssss
+MATCH: /h{5,11}/ hhhlxhhhhhhshh, hhhhhhhhhhh
+no match: /s{10,11}/ ssssssssssgsssss, sssssssssssssss
+MATCH: /q{6,7}/ kqqqqmqnqq, qqqqqqq
+MATCH: /l{8,13}/ llllllltlllljll, lllllllllllll
+MATCH: /j{9,12}/ jjjjjjjjjjjlj, jjjjjjjjjjjj
+MATCH: /s{7,11}/ gstcncsssscssssss, sssssssssss
+no match: /x{4,6}/ lrtjfnhmpmxj, x
+MATCH: /c{9,20}/ cttccccccnccclcccccc, cccccccccccccccc
+no match: /w{1,8}/ cwwwwwwwwww, wwwwwwwwww
+MATCH: /n{12,13}/ nnnnnnnngnnnnn, nnnnnnnnnnnnn
+no match: /p{1,5}/ pfqwcpnppppwwpqppp, pppppppppp
+MATCH: /g{7,8}/ gggsgglghg, ggggggg
+no match: /g{6,7}/ gggggggg, gggggggg
+no match: /s{4,10}/ ssssssssssss, ssssssssssss
+no match: /n{1,2}/ njsnnln, nnnn
+no match: /z{7,8}/ gzczzwdzkkzz, zzzzzz
+MATCH: /b{2,8}/ bbbwjfbh, bbbb
+MATCH: /r{6,8}/ rrrrbrrbr, rrrrrrr
+MATCH: /k{2,5}/ lkkkkl, kkkk
+MATCH: /c{2,3}/ swcgjcm, cc
+no match: /t{2,10}/ ttttttttttt, ttttttttttt
+MATCH: /l{12,13}/ lllllxllllllqhl, llllllllllll
+MATCH: /l{2,9}/ qtqxdpqqlwhqwlr, ll
+MATCH: /q{1,5}/ qqxrn, qq
+MATCH: /k{10,11}/ kkkkkkkkkckk, kkkkkkkkkkk
+no match: /f{1,2}/ ffff, ffff
+MATCH: /r{3,4}/ rrxr, rrr
+no match: /p{8,9}/ lppppxpsp, pppppp
+MATCH: /s{2,5}/ ssstchlrds, ssss
+no match: /m{11,15}/ mmmmmmmmmmmmmmmmm, mmmmmmmmmmmmmmmmm
+MATCH: /k{14,17}/ kkkkkkkkkkgkkkktbkk, kkkkkkkkkkkkkkkk
+no match: /x{1,2}/ xlxx, xxx
+no match: /w{9,10}/ wwcwptczwzzd, wwww
+no match: /c{1,3}/ ccgcccccccccccccc, cccccccccccccccc
+MATCH: /h{4,5}/ nhhhvh, hhhh
+MATCH: /l{8,16}/ hlllfllllmltlhlldl, llllllllllll
+no match: /w{4,5}/ wgwfw, www
+no match: /p{6,15}/ pjpbfrmxqgkxkbqhj, pp
+MATCH: /l{12,17}/ llmtllnlllllllllnns, lllllllllllll
+no match: /n{8,15}/ zjnxzndnznklxzjlx, nnnn
+no match: /r{6,9}/ wpsmstnkgtrmng, r
+MATCH: /s{3,7}/ csvhxhsgvrsrn, sss
+no match: /h{10,15}/ hchhhdhkhghlhgsh, hhhhhhhhh
+MATCH: /c{2,9}/ mzbmtccktc, ccc
+no match: /x{3,4}/ xlzvxg, xx
+MATCH: /k{12,14}/ zmkskknwkkkmkkwkgkkk, kkkkkkkkkkkk
+MATCH: /r{4,9}/ vqrrrrdzpl, rrrr
+MATCH: /g{3,4}/ ggvbxg, ggg
+no match: /q{5,8}/ xtrqrmqq, qqq
+MATCH: /l{16,18}/ zllllllllllllllwlnll, lllllllllllllllll
+no match: /s{6,7}/ zsqszss, ssss
+MATCH: /g{3,4}/ wghgpg, ggg
+MATCH: /z{1,6}/ hzzzzrz, zzzzz
+no match: /h{3,8}/ hthfqtccnq, hh
+MATCH: /p{15,18}/ ppppppcpppppppnppppp, pppppppppppppppppp
+MATCH: /l{3,4}/ qplkdmjntlghjlpxlq, llll
+no match: /q{10,12}/ xzqkxdvgrqxqqzzxgjj, qqqq
+MATCH: /q{6,9}/ qqqvsvqqxq, qqqqqq
+no match: /g{12,13}/ shgcnjlgvcgqg, gggg
+MATCH: /l{5,10}/ llklplllmlsl, llllllll
+MATCH: /l{3,12}/ vllqfzwnsqslpnvrbkh, lll
+MATCH: /g{14,16}/ gjggggggggggggbzcggg, gggggggggggggggg
+no match: /m{5,11}/ ssmsmbnspmm, mmmm
+no match: /v{11,13}/ mkqvvvvvmcvvz, vvvvvvv
+MATCH: /k{2,3}/ mkkchtzqsvkbclgxn, kkk
+MATCH: /r{4,7}/ rphrrnrrqwknrktrgsg, rrrrrrr
+no match: /z{6,10}/ vpjhzzzkqzjl, zzzz
+MATCH: /c{16,18}/ ccccccccccccccchccc, cccccccccccccccccc
+MATCH: /v{1,10}/ qvvvvzvvvvvv, vvvvvvvvvv
+MATCH: /j{5,7}/ jjrjjjj, jjjjjj
+no match: /l{14,16}/ zlgdrlqllgpllfhh, llllll
+MATCH: /l{3,6}/ llmllll, llllll
+no match: /l{3,4}/ smdl, l
+no match: /h{4,11}/ kgqhcpvrbldrhbq, hh
+MATCH: /j{1,15}/ ljjjjjjjjjjjjjjj, jjjjjjjjjjjjjjj
+no match: /c{7,14}/ ccccccccccccccc, ccccccccccccccc
+no match: /v{2,10}/ vzvjvvvvvvvvv, vvvvvvvvvvv
+no match: /p{4,9}/ flbpmqmhkpt, pp
+no match: /q{10,12}/ rtdrqmpcsqrhqqchqczw, qqqqq
+no match: /w{16,19}/ vlwxgtmjwrzvqgdwbdw, wwww
+no match: /c{8,15}/ gkcccslctcmszhc, cccccc
+no match: /f{3,7}/ hhffhbbtbwzw, ff
+MATCH: /s{4,9}/ msbsxssds, sssss
+MATCH: /p{13,15}/ pppppppppcpppxldp, ppppppppppppp
+MATCH: /m{6,7}/ mmmmmqmm, mmmmmmm
+no match: /m{11,12}/ mxmmzwmmmdqpmp, mmmmmmm
+no match: /l{7,12}/ gncmgzxlqcllqgt, lll
+MATCH: /t{12,14}/ tttttttttttdtt, ttttttttttttt
+no match: /f{2,6}/ ffffffbrfffp, fffffffff
+no match: /h{14,17}/ hhdhpphhhhhhkhhxqph, hhhhhhhhhhhh
+no match: /x{7,9}/ xxxxxxxxqxxxxxx, xxxxxxxxxxxxxx
+MATCH: /j{5,18}/ vlwgjljtljtrdbxjnjwm, jjjjj
+no match: /n{5,7}/ jmncnsndnbwx, nnnn
+MATCH: /r{8,9}/ rrrrrrrrr, rrrrrrrrr
+MATCH: /j{11,17}/ jjjjjjjjjjjjjjpjr, jjjjjjjjjjjjjjj
+no match: /x{5,6}/ xxxxjt, xxxx
+no match: /l{13,15}/ nshmnjgzhmjdzvl, l
+no match: /r{9,10}/ wmsvzxsrqnnhfr, rr
+no match: /k{8,11}/ kkkxxrkpktg, kkkkk
+no match: /r{1,7}/ rrrrrrrfrrrjwrd, rrrrrrrrrrr
+no match: /t{5,7}/ rztvtvplbrk, tt
+MATCH: /w{2,7}/ wwwwwwsw, wwwwwww
+no match: /g{1,2}/ sgggk, ggg
+MATCH: /j{12,13}/ jjjjjwjjjjvvjjjrjs, jjjjjjjjjjjjj
+no match: /c{1,2}/ cccccc, cccccc
+no match: /g{3,5}/ khgzr, g
+MATCH: /b{9,16}/ bbbbbbcbsbbbbbbb, bbbbbbbbbbbbbb
+no match: /z{12,13}/ zzzzzzzzzszkz, zzzzzzzzzzz
+MATCH: /r{4,5}/ rkrrrr, rrrrr
+MATCH: /t{1,2}/ tgbqtddbmq, tt
+no match: /w{1,2}/ wkwwwww, wwwwww
+no match: /q{14,15}/ qqdqqqqqqqqhqnb, qqqqqqqqqqq
+MATCH: /r{6,7}/ rrrrrdmrr, rrrrrrr
+no match: /j{8,9}/ jjjjjjjqhjjjjj, jjjjjjjjjjjj
+no match: /t{3,6}/ gwmlntffstzllvs, tt
+MATCH: /h{6,8}/ hhhhnhhhqh, hhhhhhhh
+MATCH: /w{9,11}/ cwcwwwwwgxwwbw, wwwwwwwww
+MATCH: /w{5,9}/ wwwwcwwww, wwwwwwww
+MATCH: /k{8,12}/ snjmkkhrgkkzkkpskk, kkkkkkkk
+MATCH: /q{3,6}/ lvqjqlq, qqq
+MATCH: /z{3,4}/ zzzn, zzz
+no match: /t{9,12}/ dvmvhttxtmzhrr, ttt
+no match: /k{3,7}/ kkkkkkskkkkkk, kkkkkkkkkkkk
+no match: /v{6,15}/ vqvvvdvvvvbvvvvvvvvv, vvvvvvvvvvvvvvvvv
+no match: /z{3,4}/ jzzzzzdk, zzzzz
+MATCH: /b{8,12}/ bbbbbbbbbbbs, bbbbbbbbbbb
+MATCH: /m{3,9}/ nvhwmwgmmqkbmmmzb, mmmmmm
+no match: /r{8,10}/ npwjcgwrwcrx, rr
+MATCH: /r{1,5}/ rxdrr, rrr
+MATCH: /p{6,9}/ ppppppsbkmppkp, ppppppppp
+no match: /j{1,4}/ jjjqjjjz, jjjjjj
+MATCH: /b{6,7}/ rblbbbbbbp, bbbbbbb
+MATCH: /t{5,9}/ tttttttttf, ttttttttt
+MATCH: /c{8,9}/ czcccccccc, ccccccccc
+no match: /j{13,14}/ jjjbjjtbjjjjjj, jjjjjjjjjjj
+MATCH: /p{3,8}/ pwppzqvp, pppp
+no match: /m{3,12}/ mmzmmmmmmmmmmm, mmmmmmmmmmmmm
+no match: /d{3,9}/ ddjddddddqddd, ddddddddddd
+MATCH: /q{3,4}/ qqfq, qqq
+no match: /m{6,14}/ mmmmmbmmmmwmmlmmmm, mmmmmmmmmmmmmmm
+no match: /c{3,4}/ glgzc, c
+MATCH: /t{6,7}/ ttttttt, ttttttt
+MATCH: /s{1,4}/ sssbs, ssss
+no match: /r{5,8}/ drrkrrrzrrrr, rrrrrrrrr
+no match: /q{10,12}/ rvqfqqkllqqqlfrq, qqqqqqq
+no match: /s{11,13}/ szsssssssssssss, ssssssssssssss
+MATCH: /t{8,11}/ tttttttsttvt, tttttttttt
+no match: /j{11,15}/ zjjjjjjjjjjjjjjjjj, jjjjjjjjjjjjjjjjj
+no match: /s{2,4}/ dvfs, s
+no match: /q{3,4}/ zhpq, q
+MATCH: /c{10,11}/ cccccccccckc, ccccccccccc
+no match: /h{5,11}/ pnrjhtdlkzvhh, hhh
+no match: /l{5,9}/ nlllxgnrlllllllmq, llllllllll
+MATCH: /f{3,4}/ gfff, fff
+no match: /g{8,9}/ grgggggbg, ggggggg
+no match: /j{3,4}/ pfwjhh, j
+no match: /l{2,5}/ jlfjr, l
+MATCH: /l{2,4}/ lblv, ll
+MATCH: /q{3,10}/ qqvzhnqqhqvqq, qqqqqqq
+MATCH: /t{11,15}/ tfttttttktwttts, ttttttttttt
+no match: /b{12,14}/ gqptrzwclbdbfqd, bb
+MATCH: /r{1,4}/ crrprr, rrrr
+no match: /v{5,13}/ qvdvvvdnrqmrqp, vvvv
+MATCH: /r{9,12}/ rwrrlsrrsrrjgdnrrr, rrrrrrrrrr
+MATCH: /c{4,6}/ ccldccnp, cccc
+no match: /q{16,17}/ qqqqqpqqqqlqqqqmlq, qqqqqqqqqqqqqq
+no match: /w{2,8}/ wwwwwwwhwmwws, wwwwwwwwww
+MATCH: /m{3,6}/ dmmbmmdmkxm, mmmmmm
+no match: /t{6,13}/ xflrtblvcvfxnlf, t
+MATCH: /m{2,6}/ pmnsmm, mmm
+no match: /k{13,15}/ kstfvnkkgfvvkbk, kkkkk
+MATCH: /w{4,10}/ jqwcwlcwcwvqbfzfzfm, wwww
+MATCH: /d{1,5}/ ddndbmjxhfqqn, ddd
+no match: /p{13,16}/ pzvbszhqtpklpkpdw, pppp
+MATCH: /t{2,4}/ thttwmxjsbtp, tttt
+no match: /s{8,10}/ zbsvjcssfmf, sss
+no match: /l{3,5}/ lltlwlllll, llllllll
+no match: /g{12,14}/ hgfvvfpnrvpfggnss, ggg
+no match: /q{3,13}/ cjmbvgxchmqdqcvc, qq
+MATCH: /j{12,16}/ cjjjjjjjjjjqjjjjjj, jjjjjjjjjjjjjjjj
+MATCH: /m{1,5}/ kqrgm, m
+no match: /x{11,14}/ xcjpwbrrffxkfxh, xxx
+no match: /c{12,14}/ kgfnccxqczkcjkcc, cccccc
+MATCH: /f{3,4}/ sfftf, fff
+MATCH: /f{1,3}/ ffdz, ff
+no match: /t{12,14}/ xftfxmkttdsttg, ttttt
+MATCH: /f{4,9}/ ffhcgfffffff, fffffffff
+no match: /b{9,10}/ zjlbbsbzbx, bbbb
+no match: /m{9,14}/ hhxmlmmmzmmtmm, mmmmmmmm
+no match: /t{3,5}/ tkcpzjwr, t
+no match: /k{6,9}/ wkfdwflgrntrknsr, kk
+MATCH: /l{1,4}/ gfml, l
+no match: /z{9,10}/ zzzzzzzzzrzzzz, zzzzzzzzzzzzz
+no match: /h{9,11}/ hhhhhhhhhhzhh, hhhhhhhhhhhh
+no match: /k{1,9}/ kkkkkkkkzkkkkkkk, kkkkkkkkkkkkkkk
+MATCH: /h{2,7}/ sswmmkhkvhw, hh
+MATCH: /m{2,5}/ pmbnnmzrkk, mm
+no match: /f{9,12}/ xhpfbfdffkfw, fffff
+no match: /g{3,4}/ gfwg, gg
+no match: /n{11,12}/ nnnnnnnnnnnpnnnxn, nnnnnnnnnnnnnnn
+no match: /d{5,6}/ dddddgddd, dddddddd
+no match: /j{7,9}/ cbjgnjqjgj, jjjj
+MATCH: /r{9,14}/ rrrrrrrhrrrrrzbrr, rrrrrrrrrrrrrr
+no match: /p{4,5}/ prphk, pp
+MATCH: /d{2,4}/ dpdd, ddd
+MATCH: /p{5,15}/ zjsppzhqqgqspcppqpps, ppppppp
+no match: /r{2,7}/ rrrrrrfwrr, rrrrrrrr
+MATCH: /h{1,3}/ hhqh, hhh
+no match: /g{14,16}/ zgvdgspkjrrvcgdlxg, gggg
+MATCH: /c{4,6}/ psgqccccvc, ccccc
+no match: /q{9,14}/ qdqjqmttdtcqggqpqn, qqqqqq
+MATCH: /f{13,18}/ ffffffffffffgffffff, ffffffffffffffffff
+no match: /g{8,9}/ gggggggggggg, gggggggggggg
+MATCH: /x{11,12}/ xxxxxxxxxxxr, xxxxxxxxxxx
+MATCH: /c{2,17}/ cxcccfchcccccccbbcm, ccccccccccccc
+no match: /b{7,11}/ nwbrzndvrfxwt, b
+MATCH: /x{3,4}/ xhwxxxv, xxxx
+no match: /r{16,17}/ rzrrnrrrvxrrzrrrrrr, rrrrrrrrrrrrrr
+no match: /f{2,3}/ zcvgbmxvwp, 
+no match: /b{5,6}/ fwbbbf, bbb
+MATCH: /m{6,10}/ mmmmmpmmmw, mmmmmmmm
+MATCH: /n{2,4}/ bnnvndbpvzj, nnn
+no match: /t{3,4}/ dftfhdngqp, t
+no match: /v{1,2}/ vtvvvvvvvvv, vvvvvvvvvv
+MATCH: /v{2,3}/ vgvv, vvv
+no match: /s{9,10}/ tsvsshsssgssssmsksss, ssssssssssssss
+MATCH: /t{6,7}/ ttttttxt, ttttttt
+no match: /c{3,4}/ jcrc, cc
+no match: /l{5,8}/ ztlmjljlb, lll
+MATCH: /w{4,5}/ bwwwww, wwwww
+MATCH: /r{11,14}/ rrrbrrrrrrnrrrs, rrrrrrrrrrrr
+MATCH: /z{10,16}/ zzzzznzzzwzzzzzzzz, zzzzzzzzzzzzzzzz
+no match: /m{7,13}/ mmmmmmfmmmmmmmmmmmmm, mmmmmmmmmmmmmmmmmmm
+no match: /w{15,19}/ fflzcwftmcswcwwnwts, wwwww
+MATCH: /b{10,19}/ bjbbbbbbmwbbbbbbbbtb, bbbbbbbbbbbbbbbb
+no match: /x{14,16}/ xxxxpxxpxxqxdqxxxx, xxxxxxxxxxxxx
+no match: /r{8,13}/ rkzrjbxrgwkhnb, rrr
+MATCH: /r{5,18}/ rrrzfkrrrrrrrrtrrnrr, rrrrrrrrrrrrrrr
+MATCH: /b{4,5}/ bbbfzb, bbbb
+no match: /q{6,10}/ qnscxqqfqb, qqqq
+no match: /w{8,13}/ wwwwwwwfwwwwwwwwww, wwwwwwwwwwwwwwwww
+no match: /n{10,11}/ scvnsnpgnjnmdpnwct, nnnnn
+no match: /p{7,11}/ pjpppppdqpjpfppsptp, pppppppppppp
+no match: /n{7,9}/ jfsvclhfm, 
+no match: /h{3,8}/ whsggqscd, h
+MATCH: /r{2,12}/ mrmpxhrqsdmqpjshvck, rr
+no match: /g{2,4}/ gdgggg, ggggg
+MATCH: /s{7,12}/ ssssssssgsss, sssssssssss
+MATCH: /l{7,11}/ dlklllnjlslbl, lllllll
+no match: /k{5,11}/ kkkkkkkkkkkkkkk, kkkkkkkkkkkkkkk
+no match: /g{6,9}/ dhtvcgmfrjhk, g
+no match: /m{4,5}/ lmmmhmsmmmmmcmmmmzmm, mmmmmmmmmmmmmmm
+no match: /t{11,13}/ zgtnkjzmtkttmtkc, ttttt
+MATCH: /b{6,7}/ bbbbbbv, bbbbbb
+MATCH: /q{3,4}/ qqcq, qqq
+no match: /z{12,16}/ zzzszjzszzczmxtzzcl, zzzzzzzzzz
+MATCH: /w{2,5}/ wwfhp, ww
+no match: /d{1,2}/ gddkd, ddd
+no match: /f{5,12}/ fwqgbvrcfmwb, ff
+no match: /w{2,5}/ bnxcw, w
+MATCH: /t{3,15}/ ncwftppphsxvztttjs, tttt
+MATCH: /p{7,10}/ ppnsppkcppsp, ppppppp
+no match: /v{5,6}/ vvrdvv, vvvv
+no match: /z{5,6}/ hczwbzz, zzz
+no match: /p{3,12}/ gcphfgmzfkflspmxg, pp
+no match: /m{14,19}/ jmfmfjpvbmfmmrdkdnzp, mmmmm
+MATCH: /p{6,7}/ pdwzppppp, pppppp
+MATCH: /b{4,7}/ bbbnbbqbb, bbbbbbb
+no match: /r{7,8}/ frrrrrxxr, rrrrrr
+no match: /b{8,18}/ jbphpzgvnppwhkxfzs, b
+MATCH: /c{1,5}/ pvhcc, cc
+MATCH: /z{4,8}/ fzznzjzztstzxrz, zzzzzzz
+MATCH: /v{5,10}/ jvvwvvvlvlvqc, vvvvvvv
+no match: /p{7,14}/ svgrzfpxkdpbhph, ppp
+no match: /n{5,7}/ nncmvkn, nnn
+no match: /r{11,12}/ rrlrbrrrvrrr, rrrrrrrrr
+MATCH: /r{1,5}/ vtngrndhqf, r
+no match: /k{2,4}/ knjp, k
+MATCH: /h{11,14}/ hhghhhhhhhxhhwhhh, hhhhhhhhhhhhhh
+no match: /r{16,18}/ rrrrrrrrrrrrrrrpnb, rrrrrrrrrrrrrrr
+no match: /d{10,14}/ dpddbvdtdmxfdddd, ddddddddd
+MATCH: /t{2,4}/ cztt, tt
+no match: /r{5,6}/ rzrprd, rrr
+MATCH: /n{2,5}/ ngwdngc, nn
+no match: /q{1,6}/ qqqzzwwqqqkqqq, qqqqqqqqq
+no match: /l{7,8}/ lllzllpxl, llllll
+MATCH: /b{1,4}/ kmltzzjzbppgwq, b
+MATCH: /t{1,4}/ ttttb, tttt
+no match: /p{3,4}/ dkxpcph, pp
+no match: /z{7,15}/ zzzzzzhzzzzzzzzzz, zzzzzzzzzzzzzzzz
+no match: /c{4,7}/ cdljfccm, ccc
+no match: /p{3,8}/ hbpxhlmc, p
+MATCH: /w{4,5}/ wwwlw, wwww
+no match: /b{14,15}/ lbqbbbkgbbwfbdb, bbbbbbbb
+no match: /j{6,10}/ jtjjvpwwthwcsj, jjjj
+MATCH: /t{5,8}/ ltvtttbtqxtzq, tttttt
+MATCH: /t{12,13}/ ttttttttjttztxt, tttttttttttt
+MATCH: /p{16,18}/ ppppppppppppppxpxbpp, ppppppppppppppppp
+MATCH: /n{4,7}/ nnnrnnnnt, nnnnnnn
+no match: /r{1,2}/ rfrr, rrr
+no match: /g{5,6}/ ggggvggg, ggggggg
+no match: /s{3,4}/ ssbw, ss
+MATCH: /l{3,4}/ ldll, lll
+no match: /m{8,10}/ mmmmvmmcjkmg, mmmmmmm
+MATCH: /w{10,18}/ wwvwwvwwhwwjwwwlwxcm, wwwwwwwwwwww
+no match: /x{1,2}/ cxxxxxxxxxxxxx, xxxxxxxxxxxxx
+no match: /b{1,5}/ bbbbkbbb, bbbbbbb
+no match: /z{12,14}/ zwqzrrzzvqqzzszrx, zzzzzzz
+no match: /z{1,5}/ lzzfzzzfz, zzzzzz
+no match: /t{16,17}/ ftgstrgptwmptxrzt, ttttt
+no match: /b{9,10}/ bbbbbbbzbbbb, bbbbbbbbbbb
+MATCH: /w{8,14}/ wwwwwwwjwwwzwzww, wwwwwwwwwwwww
+no match: /h{3,4}/ qhnh, hh
+no match: /d{2,12}/ dnddddkddddzdxdddd, dddddddddddddd
+MATCH: /x{5,17}/ xxxxxxxxxxxxxxxxx, xxxxxxxxxxxxxxxxx
+no match: /h{9,10}/ hhhhtqhhhrh, hhhhhhhh
+MATCH: /p{6,7}/ pfmppppp, pppppp
+MATCH: /v{5,8}/ vbvvvvvs, vvvvvv
+no match: /h{4,5}/ qhfhqcb, hh
+MATCH: /d{3,12}/ dlddlhhwvcrdrxwpt, dddd
+MATCH: /n{2,3}/ nnwnp, nnn
+no match: /g{4,8}/ ggggjgfgzgdglgg, gggggggggg
+no match: /h{4,9}/ vrghsphxhxzsxw, hhh
+no match: /z{12,18}/ qrzzzfwdcwnzdzkckz, zzzzzz
+no match: /v{6,8}/ zvmlqwwh, v
+MATCH: /p{10,14}/ pppxwpndfpwppdpptmpp, ppppppppppp
+no match: /q{12,15}/ qqnqkqkqjgrcqfq, qqqqqqq
+MATCH: /n{2,4}/ pnszjnnn, nnnn
+MATCH: /c{2,3}/ zkctcfc, ccc
+no match: /l{17,20}/ lvjlcclllslzllllwgll, llllllllllll
+no match: /k{16,17}/ dfgskkfkkkfjhfvfks, kkkkkk
+no match: /t{1,3}/ tjttltt, ttttt
+no match: /b{2,3}/ bbzbb, bbbb
+MATCH: /t{8,15}/ dtttttsttlttttzlttj, ttttttttttttt
+no match: /v{13,14}/ vvkvvjvgwvvvkvf, vvvvvvvvv
+MATCH: /v{7,8}/ tvvvvvvhv, vvvvvvv
+MATCH: /d{3,10}/ bxktdrtddtdtsh, dddd
+MATCH: /j{4,12}/ npwxjjjjbjkq, jjjjj
+no match: /l{1,4}/ tlllll, lllll
+MATCH: /b{12,13}/ lbhpxbbbvbbbqbbbsbb, bbbbbbbbbbbb
+no match: /v{9,15}/ vqhsggmpvmqtbzzlq, vv
+no match: /f{12,14}/ ffhfjfffqfxqff, fffffffff
+no match: /m{15,16}/ jtnsjwpggbpxlhqmk, m
+no match: /n{2,4}/ xptncjsstcl, n
+no match: /q{5,8}/ dmwklqjqnzb, qq
+no match: /c{3,4}/ vcgl, c
+MATCH: /h{1,6}/ hhhhhh, hhhhhh
+no match: /x{8,9}/ ckblstcdx, x
+no match: /w{5,7}/ vwphwwmwwwww, wwwwwwww
+MATCH: /x{2,4}/ kxxxdh, xxx
+no match: /m{10,11}/ kmmvmmmfmksmj, mmmmmmm
+MATCH: /v{4,7}/ zvrvvvdvvv, vvvvvvv
+MATCH: /p{1,8}/ npxbwqpxbjrnrv, pp
+no match: /t{5,11}/ jfkwttkstrxlgts, tttt
+no match: /g{1,2}/ ggggg, ggggg
+MATCH: /p{5,7}/ tpppppr, ppppp
+no match: /v{15,17}/ vvvvvvvvvvvvvvvvvvvv, vvvvvvvvvvvvvvvvvvvv
+no match: /w{17,19}/ dwjwjznczwgfmkmhdtw, wwww
+no match: /f{10,13}/ fffffbqfffffffffff, ffffffffffffffff
+no match: /g{4,14}/ ggggggggggggggg, ggggggggggggggg
+MATCH: /d{2,3}/ bdkfd, dd
+MATCH: /x{7,8}/ xxxxxxxx, xxxxxxxx
+MATCH: /h{6,9}/ hmshdhvvhkhbhcshs, hhhhhhh
+MATCH: /g{14,15}/ gggggggggggggghg, ggggggggggggggg
+MATCH: /q{2,16}/ qqsxqqqdgqqghqqk, qqqqqqqqq
+MATCH: /p{3,17}/ ppbppprppppppppphppp, ppppppppppppppppp
+no match: /v{8,18}/ vczfvqcvvcspndvxwjdv, vvvvvv
+no match: /d{1,3}/ fdddd, dddd
+no match: /j{9,11}/ gfjjnjsdnhb, jjj
+no match: /s{8,10}/ hkhshttssl, sss
+no match: /f{5,10}/ ffsffffffqxfff, fffffffffff
+no match: /w{7,10}/ wwlwwckwwf, wwwwww
+no match: /x{4,8}/ blxxmtbgnblfgnfwz, xx
+MATCH: /p{4,5}/ rlpkprppp, ppppp
+no match: /s{13,14}/ ssssssssssssswss, sssssssssssssss
+no match: /h{4,8}/ hhhdhmhhhjhlhh, hhhhhhhhhh
+no match: /h{6,7}/ chhhhhfhzqhdhhh, hhhhhhhhhh
+no match: /m{15,17}/ msvrmwzkzvmmgrmmpm, mmmmmmm
+no match: /x{4,6}/ qgtwwxhgsxxmklgmn, xxx
+no match: /p{4,7}/ rpzkdpp, ppp
+no match: /v{3,4}/ vvvhvjv, vvvvv
+MATCH: /p{16,18}/ pppppppppppppppppmp, pppppppppppppppppp
+no match: /k{15,17}/ kpkkkkkhqkkkkklktk, kkkkkkkkkkkkk
+no match: /s{5,7}/ ssbxxsk, sss
+MATCH: /l{2,4}/ cwllll, llll
+MATCH: /v{6,9}/ cvvrrkvrvsdvfwcv, vvvvvv
+no match: /w{1,7}/ qwwwwslwwwwwwwwrww, wwwwwwwwwwwwww
+no match: /c{2,12}/ clcccccccccccccc, ccccccccccccccc
+no match: /m{5,10}/ ftcmrpmvrzc, mm
+no match: /w{7,11}/ wwwwwwwwwwtwwwww, wwwwwwwwwwwwwww
+MATCH: /n{2,3}/ jngdlvgcvtkmn, nn
+no match: /v{1,8}/ hvvvvvvvvv, vvvvvvvvv
+no match: /p{3,17}/ jrpvltxlcqgpfxwsj, pp
+no match: /k{1,5}/ kkkkfkk, kkkkkk
+MATCH: /c{1,10}/ cccccccccfc, cccccccccc
+no match: /f{13,19}/ flfffffxfvffffprfmcb, ffffffffffff
+no match: /g{3,6}/ htglsbvrzcghjmd, gg
+no match: /h{9,11}/ wrwghhhhnzhxl, hhhhh
+MATCH: /z{5,12}/ zzkzzhnjpmkvzzzw, zzzzzzz
+no match: /w{7,11}/ qrwcwwstwddw, wwwww
+no match: /m{15,19}/ mmmmmmmmmmmmmmmmmmmm, mmmmmmmmmmmmmmmmmmmm
+MATCH: /m{15,16}/ mmmmmmmmmmmmmmhmm, mmmmmmmmmmmmmmmm
+no match: /x{12,16}/ xxxxxcxxxxxlxxxxxxx, xxxxxxxxxxxxxxxxx
+MATCH: /l{5,10}/ qwfqlllgsdjrlspll, llllll
+no match: /f{3,4}/ hffmfffg, fffff
+MATCH: /l{6,7}/ lwlllbllnl, lllllll
+MATCH: /t{11,20}/ tttkrtlpttwftmwttttt, tttttttttttt
+MATCH: /d{11,12}/ ddbdddddddpktdd, ddddddddddd
+MATCH: /w{4,11}/ sxkmkwdwwnlwxmdvfx, wwww
+MATCH: /k{4,5}/ kkzkpk, kkkk
+MATCH: /n{13,20}/ nnnnnntnnnnnbnnnbnnn, nnnnnnnnnnnnnnnnn
+MATCH: /c{5,7}/ ccccwcc, cccccc
+no match: /h{1,6}/ cckkhhdhhwmhhmzchhwx, hhhhhhhh
+no match: /b{1,15}/ hbbbbbbbbhbbhbbbbnbb, bbbbbbbbbbbbbbbb
+no match: /w{1,2}/ mwwww, wwww
+MATCH: /f{1,2}/ sfzgwtf, ff
+MATCH: /s{3,4}/ sssj, sss
+MATCH: /w{1,3}/ xwww, www
+MATCH: /p{1,16}/ ppppppppdppppppp, ppppppppppppppp
+no match: /c{1,6}/ ccxmccccc, ccccccc
+no match: /b{4,8}/ rtpbcfbr, bb
+no match: /s{9,10}/ sszssstshss, ssssssss
+no match: /x{15,16}/ xxxtxxxxxxxmxxxzx, xxxxxxxxxxxxxx
+MATCH: /k{9,15}/ kkkkkkkkkkgrkkkkk, kkkkkkkkkkkkkkk
+MATCH: /x{11,13}/ xtxxxxxxxxrxkxx, xxxxxxxxxxxx
+no match: /f{1,5}/ rffflfffnf, fffffff
+MATCH: /n{14,16}/ nnxnnnnnnnnnbnzbnnn, nnnnnnnnnnnnnnn
+no match: /d{3,6}/ ddddddndbdfdhd, dddddddddd
+no match: /q{14,15}/ sbqqhvqqqvqgxfq, qqqqqqq
+no match: /b{5,6}/ jglbfjb, bb
+MATCH: /l{1,10}/ llllllcllsll, llllllllll
+MATCH: /z{3,5}/ lwzzz, zzz
+no match: /k{5,12}/ kkkkmkkkkkkkkkkl, kkkkkkkkkkkkkk
+no match: /v{8,12}/ vvtsvfvnzvhpm, vvvvv
+no match: /l{5,7}/ llllllll, llllllll
+MATCH: /f{4,7}/ nqfffkbdf, ffff
+MATCH: /j{4,8}/ jjjljkhj, jjjjj
+no match: /h{9,15}/ vgzpgfhfhmwdhbqc, hhh
+MATCH: /p{1,5}/ ptpsjqpnp, pppp
+MATCH: /q{5,8}/ qbqqwqnq, qqqqq
+no match: /w{5,7}/ wwswwxsb, wwww
+no match: /h{3,6}/ nnhrnhkmxqkt, hh
+no match: /w{1,3}/ jwwww, wwww
+MATCH: /x{2,14}/ cxxxxdxxxxxxxbxx, xxxxxxxxxxxxx
+no match: /x{12,14}/ xxxfxxxxqxxrxt, xxxxxxxxxx
+MATCH: /f{4,9}/ fffkffbsfkxv, ffffff
+MATCH: /m{12,13}/ mmmmmmmmmmmwm, mmmmmmmmmmmm
+no match: /p{6,10}/ ppppphpppxppp, ppppppppppp
+no match: /v{9,12}/ vsvvvvkmjvvvn, vvvvvvvv
+no match: /r{3,12}/ shngvhbmjrpr, rr
+no match: /w{12,13}/ wqwcwxclwwwfw, wwwwwww
+no match: /r{4,5}/ nnrrdz, rr
+no match: /c{4,19}/ vbcpwzvxssccqkqgmxvj, ccc
+MATCH: /g{1,6}/ tglxhggng, gggg
+no match: /z{9,10}/ lvzhvtglzf, zz
+no match: /f{10,16}/ gddxfftggfbmxwts, fff
+no match: /k{4,12}/ kkkklkkkkkkpkkk, kkkkkkkkkkkkk
+MATCH: /m{7,11}/ mmmmmmmmmmtm, mmmmmmmmmmm
+no match: /z{2,10}/ vkfpjrrvlwlbjwk, 
+MATCH: /w{3,7}/ dtdzwjqgxdwjhchwwd, wwww
+no match: /v{13,14}/ vvvvvvvvvvvvvvvv, vvvvvvvvvvvvvvvv
+no match: /c{11,12}/ cjccccqccccc, cccccccccc
+no match: /h{14,15}/ hzhrhkhfthrhxht, hhhhhhh
+no match: /v{3,5}/ dtwvvvvvcvvvrvsvvv, vvvvvvvvvvvv
+MATCH: /q{10,14}/ qhqqkqcqqqqqlfqgsqq, qqqqqqqqqqqq
+no match: /f{3,14}/ ffvffffffffzffffff, ffffffffffffffff
+no match: /x{1,12}/ xxtxjxzxxxxxlxxxxxxx, xxxxxxxxxxxxxxxx
+no match: /c{2,4}/ pgpc, c
+MATCH: /r{1,4}/ fdrr, rr
+MATCH: /r{5,7}/ rrrrrrt, rrrrrr
+no match: /d{10,11}/ drdddddddmddddpd, ddddddddddddd
+MATCH: /f{2,5}/ gfrlctftzr, ff
+no match: /z{10,13}/ nrzjjrzjzzplzmzzbn, zzzzzzz
+MATCH: /c{8,10}/ cccccccgbc, cccccccc
+MATCH: /g{5,8}/ fgggcndwgggbjnfgb, ggggggg
+MATCH: /d{6,9}/ ddddghdgbddm, ddddddd
+MATCH: /j{3,7}/ ftjjjvjqcp, jjjj
+no match: /s{5,6}/ sqvfstz, ss
+MATCH: /k{5,18}/ kkkwkkkkkkbkkkkkkkbk, kkkkkkkkkkkkkkkkk
+MATCH: /f{3,6}/ djffffkff, ffffff
+MATCH: /p{4,6}/ pqppppr, ppppp
+MATCH: /h{5,9}/ hhkhjhmgcqvfhqvhn, hhhhhh
+MATCH: /t{8,12}/ tttttttvttttt, tttttttttttt
+no match: /z{14,15}/ pzrzhjqmtbcnzdzr, zzzz
+MATCH: /s{1,17}/ ssssssssssssswsss, ssssssssssssssss
+MATCH: /s{1,4}/ ssqh, ss
+no match: /r{1,5}/ rrrrrrr, rrrrrrr
+no match: /h{17,18}/ hhhhhrhcxhhhhhhhhb, hhhhhhhhhhhhhh
+no match: /t{7,9}/ dttttjmtv, ttttt
+MATCH: /c{1,3}/ mcccp, ccc
+no match: /x{4,5}/ xprbxql, xx
+no match: /q{1,5}/ cqqqqqq, qqqqqq
+MATCH: /g{3,4}/ ggggw, gggg
+MATCH: /f{1,7}/ ffffffnf, fffffff
+no match: /t{7,9}/ ttttttttttt, ttttttttttt
+MATCH: /m{11,15}/ mmlmfmmmmmmmmmmqm, mmmmmmmmmmmmmm
+MATCH: /n{4,5}/ npnnnn, nnnnn
+no match: /b{4,5}/ zvbbvbjhlkf, bbb
+no match: /c{11,16}/ gnqmcvtzwpcbvncwcc, ccccc
+no match: /q{12,18}/ qbqkwqqvqwqqnljsqpqt, qqqqqqqqq
+no match: /r{6,10}/ wcrtdrlkgjr, rrr
+no match: /p{16,17}/ gppppppppwvlgpptp, ppppppppppp
+MATCH: /g{1,13}/ gqghbwqqzwwdk, gg
+MATCH: /l{1,6}/ rlllll, lllll
+MATCH: /j{3,7}/ pdjjtcqwbqtpfkjbwgq, jjj
+no match: /z{7,17}/ zzhsnjrhrzzfrqszdhdg, zzzzz
+no match: /n{6,7}/ xnvnhnrn, nnnn
+MATCH: /r{6,7}/ rrrrrrzr, rrrrrrr
+no match: /c{2,3}/ ccmcccc, cccccc
+MATCH: /v{2,3}/ vvdv, vvv
+MATCH: /f{3,9}/ mlfffshbfdff, ffffff
+no match: /v{11,13}/ dfvkltvjvvvvx, vvvvvv
+MATCH: /c{12,13}/ mqrccccbccbgcccccvc, cccccccccccc
+no match: /w{9,13}/ wwwwwwwwwwwwcwtww, wwwwwwwwwwwwwww
+no match: /d{6,8}/ pdvgddtmvwdkvdtzf, ddddd
+no match: /s{1,9}/ hsssssssssdsls, sssssssssss
+MATCH: /c{1,5}/ zbsslcd, c
+no match: /p{1,4}/ bpppppppppp, pppppppppp
+no match: /s{13,16}/ sssxslsscssbqsspcs, sssssssssss
+MATCH: /p{1,10}/ pskwpppzpppppks, ppppppppp
+no match: /c{3,5}/ ccppccmcc, cccccc
+no match: /b{10,11}/ rhbbbbbbbzbb, bbbbbbbbb
+MATCH: /d{2,3}/ ndhjhd, dd
+MATCH: /s{3,4}/ sscs, sss
+no match: /d{5,6}/ dtwwnt, d
+no match: /d{4,5}/ dddddddd, dddddddd
+MATCH: /z{5,9}/ zztzvzzzz, zzzzzzz
+no match: /v{2,6}/ vpqdll, v
+no match: /d{13,14}/ nxkmbkkpxkcdld, dd
+no match: /s{1,3}/ ssss, ssss
+MATCH: /z{8,14}/ zzzzzzzzzzzzzbz, zzzzzzzzzzzzzz
+no match: /f{16,17}/ fffnffffffftbzffpkf, fffffffffffff
+no match: /m{3,4}/ mtcm, mm
+no match: /r{3,4}/ mrdrd, rr
+no match: /k{11,13}/ ljkmhdkkkcpjzlmkkzkk, kkkkkkkk
+MATCH: /d{2,3}/ tdqnxpd, dd
+no match: /h{3,7}/ mrvdlthxchpvwvssqpk, hh
+no match: /j{13,17}/ jjfjjvjjjjjzjsjjksxr, jjjjjjjjjjjj
+MATCH: /n{1,4}/ rnnx, nn
+MATCH: /m{7,10}/ mmmmzmxfmm, mmmmmmm
+MATCH: /r{1,6}/ lrrvrrrrm, rrrrrr
+MATCH: /r{4,18}/ rrrdrrrrrrrrrkblrr, rrrrrrrrrrrrrr
+MATCH: /k{6,7}/ kkkkkkl, kkkkkk
+MATCH: /v{4,6}/ vmnfvvvvmcmlh, vvvvv
+no match: /g{6,9}/ jgcgggkbbmgbs, ggggg
+no match: /t{7,8}/ ttcfwtgjtcttv, tttttt
+MATCH: /j{3,4}/ tjjj, jjj
+valid passwords: 454
+invalid passwords: 546

@@ -1,10 +1,11 @@
 <?php
 $passwordRules = file_get_contents("passwordRules.txt");
 
-//           ranges          chars    password
-$regexp = "/([0-9]*-[0-9]*) ([a-z]): (.*)/";
+//           min       max     chars    password
+$regexp = "/([0-9]*)-([0-9]*) ([a-z]): (.*)/";
 
-$ranges = [];
+$minRanges = [];
+$maxRanges = [];
 $characters = [];
 $passwords = [];
 
@@ -15,29 +16,38 @@ $invalidPasswords = [];
 preg_match_all($regexp, $passwordRules, $matches);
 
 
-foreach ($matches[1] as $range){
+foreach ($matches[1] as $minRange){
     // replace any - with , so they can become valid regex ranges
-    $ranges[] = str_replace("-", ",",$range);
+    $minRanges[] = str_replace("-", ",",$minRange);
 }
 
-foreach ($matches[2] as $character){
+foreach ($matches[2] as $maxRange){
+    // replace any - with , so they can become valid regex ranges
+    $maxRanges[] = str_replace("-", ",",$maxRange);
+}
+
+foreach ($matches[3] as $character){
     $characters[] = $character;
 }
 
-foreach ($matches[3] as $password){
+foreach ($matches[4] as $password){
     $passwords[] = $password;
 }
-
 // loop through, constructing a new regex applying the range to the character
-for ($i = 0; $i<count($ranges); $i++) {
-    $matchRegexp = "/".$characters[$i]."{".$ranges[$i]."}/";
+for ($i = 0; $i<count($minRanges); $i++) {
+    $matchRegexp = "/".$characters[$i]."{".$minRanges[$i].",".$maxRanges[$i]."}/";
     //if the password matches the constructed regex, it's good. if not it's not.
-    if (preg_match($matchRegexp,$passwords[$i])){
+    
+    //we care about total number of characters, not characters in a row, so let's strip out all the ones we don't care about
+    $cleanPassword = preg_replace("/[^".$characters[$i]."]/", "", $passwords[$i]);
+    
+    if (preg_match($matchRegexp, $cleanPassword) && (strlen($cleanPassword) <= $maxRanges[$i])){
+        echo "MATCH: $matchRegexp ".$passwords[$i].", $cleanPassword\n";        
         $validPasswords[] = $passwords[$i];
     } else {
+        echo "no match: $matchRegexp ".$passwords[$i].", $cleanPassword\n";
         $invalidPasswords[] = $passwords[$i];
     }
-
 }
-echo "valid passwords: ".count($validPasswords)."\n";
+echo "\n\n\nvalid passwords: ".count($validPasswords)."\n";
 echo "invalid passwords: ".count($invalidPasswords)."\n";
